@@ -41,6 +41,10 @@ Then restart Photoshop.
 
 ## Dialog Fields
 
+<img width="679" height="374" alt="image" src="https://github.com/user-attachments/assets/da1742b7-6b04-42f0-9576-956f8fb2e37e" />
+
+<br />
+
 **Prefix**  
 The filename prefix applied to all exported files. Default is `seq_`.  
 Example: prefix `walk_` → `walk_0001.png`, `walk_0002.png`, ...  
